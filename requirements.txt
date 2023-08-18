@@ -33,6 +33,7 @@ requests==2.31.0
 safetensors==0.3.2
 six==1.16.0
 sympy==1.12
+SentencePiece
 tokenizers==0.13.3
 torch==2.0.1
 torchaudio==2.0.2
